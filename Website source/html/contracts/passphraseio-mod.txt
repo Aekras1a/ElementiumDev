@@ -1,0 +1,44 @@
+Rough details:
+
+Unmodded site: https://passphrase.io
+Site source: https://github.com/routman/passphrase.io
+
+===========================
+
+Modification: other
+Details: 
+
+Use general idea of client-side encryption to create a zero-knowledge chatroom web application.
+
+Modification must satisfy the following:
+
+- server must have zero knowledge of message
+- message must be encrypted one-way, decryption possible with key
+
+===========================
+
+Payment 
+
+Total: 250 EUR
+Upfront downpayment: 125 EUR
+
+Payment process:
+
+- order placed
+- downpayment sent
+- order begun
+- order completed, demonstration provided
+- order delivered; source code sent to customer
+- rest of payment is sent
+
+===========================
+
+Requirements
+
+- server; VPS (min specs: 1 GB RAM, 1 core, 50 GB storage)
+
+===========================
+
+Milestones
+
+- project completion: 24th April 2016, 00:00 GMT +0
